@@ -6,7 +6,7 @@
 </p>
 
 
-## Copy file "usercgf.txt" to root SDCard
+## Copy file **usercgf.txt** to root SDCard
 
 ## Edit usercfg.txt
 ```bash
@@ -17,9 +17,9 @@ DateTimeFormat=3	; 0:NOT Display Date/Time, 1:YMD, 2:MDY, 3:DMY [Min:0, Max:3]
 ```
 
 ## Stock
-![](images/after.jpg)
+![](resources/after.jpg)
 
 ## After deleting the logo and changing the date format
-![](images/before.jpg)
+![](resources/before.jpg)
 
 
